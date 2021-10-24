@@ -4,7 +4,7 @@ subtitle: Dark Blogging
 author: Lord Obscured
 simple_search: http://google.com/search
 description: Let's be fucking dark, shall we?
-remote_theme: tufte-jekyll
+remote_theme: tufte
 name: tufte
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
